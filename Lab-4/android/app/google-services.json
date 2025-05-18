@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324869947184",
+    "project_id": "todoreminder-7330e",
+    "storage_bucket": "todoreminder-7330e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324869947184:android:393488b0b9f764195192f5",
+        "android_client_info": {
+          "package_name": "com.lab4student.todoreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNqX3Hj2Vss4oJaHRaNQwGNmQQHiQmzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
